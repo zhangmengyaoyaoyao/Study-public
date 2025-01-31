@@ -1,0 +1,6 @@
+<launch>
+<include file="$(find f1tenth_simulator)/launch/simulator.launch"/>
+<node pkg="liuchengjie_pid" name="wall_follow" type="wall_follow"/>
+</launch>
+
+
