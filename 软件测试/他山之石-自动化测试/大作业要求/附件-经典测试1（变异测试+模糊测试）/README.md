@@ -1,0 +1,3 @@
+- Fuzzing流程脚本示例：libxml2-afl.sh
+- 实验结果表格示例：all_ave_data.csv
+- 趋势图示例：xmllint-path.pdf

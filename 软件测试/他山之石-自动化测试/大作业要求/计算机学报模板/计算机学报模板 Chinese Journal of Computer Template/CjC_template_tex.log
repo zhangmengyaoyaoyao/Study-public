@@ -1,0 +1,2195 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.11)  4 OCT 2022 10:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex"
+(/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./CjC.cls
+Document Class: CjC 2019/01/01 v0.1 CjC LaTeX Chinese template class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count175
+\l__color_backend_stack_int=\count176
+\g__color_backend_stack_int=\count177
+\g__graphics_track_int=\count178
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count179
+\g__pdf_backend_annotation_int=\count180
+\g__pdf_backend_link_int=\count181
+))
+Document Class: ctexart 2021/03/14 v2.5.6 Chinese adapter for class article (CTEX)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/03/14 v2.5.6 Document and package hooks (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/03/14 v2.5.6 Patching commands (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+\l__ctex_tmp_int=\count182
+\l__ctex_tmp_box=\box48
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count183
+\g__ctex_font_size_int=\count184
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/03/14 v2.5.6 Option configuration file (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/03/14 v2.5.6 XeLaTeX adapter (CTEX)
+ (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen140
+\l__xtemplate_tmp_int=\count193
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count194
+\l__xeCJK_tmp_box=\box49
+\l__xeCJK_tmp_dim=\dimen141
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count195
+\l__xeCJK_begin_int=\count196
+\l__xeCJK_end_int=\count197
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count198
+\c__xeCJK_CJK_node_dim=\dimen142
+\c__xeCJK_CJK-space_node_dim=\dimen143
+\c__xeCJK_default_node_dim=\dimen144
+\c__xeCJK_default-space_node_dim=\dimen145
+\c__xeCJK_CJK-widow_node_dim=\dimen146
+\c__xeCJK_normalspace_node_dim=\dimen147
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count199
+\l__xeCJK_last_bound_dim=\dimen148
+\l__xeCJK_last_kern_dim=\dimen149
+\l__xeCJK_widow_penalty_int=\count266
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2341.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen150
+\l__xeCJK_mixed_punct_width_dim=\dimen151
+\l__xeCJK_middle_punct_width_dim=\dimen152
+\l__xeCJK_fixed_margin_width_dim=\dimen153
+\l__xeCJK_mixed_margin_width_dim=\dimen154
+\l__xeCJK_middle_margin_width_dim=\dimen155
+\l__xeCJK_bound_punct_width_dim=\dimen156
+\l__xeCJK_bound_margin_width_dim=\dimen157
+\l__xeCJK_margin_minimum_dim=\dimen158
+\l__xeCJK_kerning_total_width_dim=\dimen159
+\l__xeCJK_same_align_margin_dim=\dimen160
+\l__xeCJK_different_align_margin_dim=\dimen161
+\l__xeCJK_kerning_margin_width_dim=\dimen162
+\l__xeCJK_kerning_margin_minimum_dim=\dimen163
+\l__xeCJK_bound_dim=\dimen164
+\l__xeCJK_reverse_bound_dim=\dimen165
+\l__xeCJK_margin_dim=\dimen166
+\l__xeCJK_minimum_bound_dim=\dimen167
+\l__xeCJK_kerning_margin_dim=\dimen168
+\g__xeCJK_family_int=\count267
+\l__xeCJK_fam_int=\count268
+\g__xeCJK_fam_allocation_int=\count269
+\l__xeCJK_verb_case_int=\count270
+\l__xeCJK_verb_exspace_skip=\skip55
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count271
+\l__fontspec_language_int=\count272
+\l__fontspec_strnum_int=\count273
+\l__fontspec_tmp_int=\count274
+\l__fontspec_tmpa_int=\count275
+\l__fontspec_tmpb_int=\count276
+\l__fontspec_tmpc_int=\count277
+\l__fontspec_em_int=\count278
+\l__fontspec_emdef_int=\count279
+\l__fontspec_strong_int=\count280
+\l__fontspec_strongdef_int=\count281
+\l__fontspec_tmpa_dim=\dimen169
+\l__fontspec_tmpb_dim=\dimen170
+\l__fontspec_tmpc_dim=\dimen171
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
+))
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen173
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count282
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip57
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2021/03/14 v2.5.6 Chinese scheme for article (CTEX)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/03/14 v2.5.6 Caption with encoding UTF-8 (CTEX)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/03/14 v2.5.6 c5size option (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
+File: ctex-fontset-mac.def 2021/03/14 v2.5.6 macOS fonts definition (CTEX)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.def
+File: ctex-fontset-macnew.def 2021/03/14 v2.5.6 macOS fonts definition for El Capitan or later version (CTEX)
+
+
+Package fontspec Warning: Font "Songti SC Light" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'SongtiSCLight(0)' created for font 'Songti
+(fontspec)             SC Light' with options
+(fontspec)             [Script={CJK},BoldItalicFont={Kaiti SC
+(fontspec)             Bold},BoldFont={Songti SC Bold},ItalicFont={Kaiti SC}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Songti SC
+(fontspec)             Light/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Songti SC
+(fontspec)             Bold/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Kaiti
+(fontspec)             SC/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Kaiti SC
+(fontspec)             Bold/OT:language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/03/14 v2.5.6 Configuration file (CTEX)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/sttools/flushend.sty
+Package: flushend 2020/10/16 v3.5 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip58
+\flushend@@lastskip@b=\skip59
+\flushend@@lastskip@c=\skip60
+\flushend@@penalty@a=\count283
+\var@@loop@iter=\count284
+\flushend@@lastkern@a=\dimen174
+\var@@temp@spread=\dimen175
+\var@@temp@a=\dimen176
+\var@@temp@loop=\dimen177
+\flushend@@page@rule=\dimen178
+\flushend@@varbox@a=\box50
+\flushend@@varbox@c=\box51
+\flushend@@tempbox@a=\box52
+\flushend@@tempbox@c=\box53
+\@viper=\box54
+\hold@viper=\box55
+\atColsBreak=\toks15
+\atColsEnd=\toks16
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen179
+\Gin@req@width=\dimen180
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (./picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
+\@BILD=\box56
+\@TEXT=\box57
+\d@breite=\dimen181
+\d@hoehe=\dimen182
+\d@xoff=\dimen183
+\d@yoff=\dimen184
+\d@shad=\dimen185
+\d@dash=\dimen186
+\d@boxl=\dimen187
+\d@pichskip=\dimen188
+\d@tmp=\dimen189
+\d@tmpa=\dimen190
+\d@bskip=\dimen191
+\hsiz@=\dimen192
+\p@getot@l=\dimen193
+\c@breite=\count286
+\c@hoehe=\count287
+\c@xoff=\count288
+\c@yoff=\count289
+\c@pos=\count290
+\c@shad=\count291
+\c@dash=\count292
+\c@boxl=\count293
+\c@zeilen=\count294
+\@changemode=\count295
+\c@piccaption=\count296
+\c@piccaptionpos=\count297
+\c@picpos=\count298
+\c@whole=\count299
+\c@half=\count300
+\c@tmp=\count301
+\c@tmpa=\count302
+\c@tmpb=\count303
+\c@tmpc=\count304
+\c@tmpd=\count305
+\d@leftskip=\skip61
+\ptoti=\dimen194
+\ptotii=\dimen195
+\env@box=\box58
+\d@envdp=\dimen196
+\c@hsize=\count306
+\c@envdp=\count307
+\d@envb=\dimen197
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ccaption/ccaption.sty
+Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
+\@contcwidth=\skip62
+\@contindw=\skip63
+\abovelegendskip=\skip64
+\belowlegendskip=\skip65
+\c@newflo@tctr=\count308
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen198
+\calc@Bdimen=\dimen199
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count311
+\calc@Cskip=\skip68
+)
+\CjC@linespace=\skip69
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks18
+\footnotemargin=\dimen256
+\c@pp@next@reset=\count312
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip70
+\subfigcapskip=\skip71
+\subfigcaptopadj=\dimen257
+\subfigbottomskip=\skip72
+\subfigcapmargin=\dimen258
+\subfiglabelskip=\skip73
+\c@subfigure=\count313
+\c@lofdepth=\count314
+\c@subtable=\count315
+\c@lotdepth=\count316
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip74
+\subfig@bottom=\skip75
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip76
+\multirow@cntb=\count317
+\multirow@dima=\skip77
+\bigstrutjot=\dimen259
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip78
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen260
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen261
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count318
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count319
+\leftroot@=\count320
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count321
+\DOTSCASE@=\count322
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+\big@size=\dimen262
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count323
+\c@MaxMatrixCols=\count324
+\dotsspace@=\muskip18
+\c@parentequation=\count325
+\dspbrk@lvl=\count326
+\tag@help=\toks20
+\row@=\count327
+\column@=\count328
+\maxfields@=\count329
+\andhelp@=\toks21
+\eqnshift@=\dimen263
+\alignsep@=\dimen264
+\tagshift@=\dimen265
+\tagwidth@=\dimen266
+\totwidth@=\dimen267
+\lineht@=\dimen268
+\@envbody=\toks22
+\multlinegap=\skip79
+\multlinetaggap=\skip80
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip81
+\thm@postskip=\skip82
+\thm@headsep=\skip83
+\dth@everypar=\toks29
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen269
+\lightrulewidth=\dimen270
+\cmidrulewidth=\dimen271
+\belowrulesep=\dimen272
+\belowbottomsep=\dimen273
+\aboverulesep=\dimen274
+\abovetopsep=\dimen275
+\cmidrulesep=\dimen276
+\cmidrulekern=\dimen277
+\defaultaddspace=\dimen278
+\@cmidla=\count330
+\@cmidlb=\count331
+\@aboverulesep=\dimen279
+\@belowrulesep=\dimen280
+\@thisruleclass=\count332
+\@lastruleclass=\count333
+\@thisrulewidth=\dimen281
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count334
+\float@exts=\toks30
+\float@box=\box61
+\@float@everytoks=\toks31
+\@floatcapt=\box62
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip84
+\f@nch@O@elh=\skip85
+\f@nch@O@erh=\skip86
+\f@nch@O@olh=\skip87
+\f@nch@O@orh=\skip88
+\f@nch@O@elf=\skip89
+\f@nch@O@erf=\skip90
+\f@nch@O@olf=\skip91
+\f@nch@O@orf=\skip92
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen282
+\captionmargin@=\dimen283
+\captionwidth=\dimen284
+\caption@tempdima=\dimen285
+\caption@indent=\dimen286
+\caption@parindent=\dimen287
+\caption@hangindent=\dimen288
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\let \@conttempa \relax \ifdim \prevdepth >-99\p@ \vskip \abovecaptionskip \else \def \@conttempa {\vbox to\topskip {}}\fi \let \@contfnote \footnote \renewcommand {\footnote }[2][]{} \let \@contfmark \footnotemark \renewcommand {\footnotemark }[1][]{} \let \@contlabel \label \renewcommand {\label }[1]{} \sbox \@tempboxa {\@contnfont #1\@contdelim \@conttfont #2} \let \footnote \@contfnote \let \footnotemark \@contfmark \let \label \@contlabel \ifdim \wd \@tempboxa <\linewidth \centering \fi \if@contcw \centering \parbox {\@contcwidth }{\fi \if@conthang \sbox \@tempboxa {\@contnfont #1\@contdelim } \@contpre {\@contnfont #1\@contdelim }\@conttempa {\@contcstyle \hangindent =\wd \@tempboxa \hangafter =\@ne \@conttfont #2\par } \else \if@contindent \@contpre {\@contnfont #1\@contdelim }\@conttempa {\@contcstyle \hangindent =\@contindw \hangafter =\@ne \@conttfont #2\par } \else \@contpre {\@contnfont #1\@contdelim }\@conttempa {\@contcstyle \@conttfont #2\par } \fi \fi \@contpost \if@contcw \par } \fi \vskip \belowcaptionskip  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count335
+\c@continuedfloat=\count336
+Package caption Info: float package is loaded.
+Package caption Info: picins package is loaded.
+Package caption Info: subfigure package is loaded.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
+\@dblbotnum=\count337
+\c@dblbotnumber=\count338
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2021/texmf-dist/tex/latex/sttools/cuted.sty
+Package: cuted 2012/10/04 v1.5 Mixing onecolumn and twocolumn modes
+\At@ViperColsBreak=\toks32
+\v@aaa=\box63
+\v@ccc=\box64
+\lastskip@a=\skip93
+\lastskip@b=\skip94
+\lastskip@d=\skip95
+\lastbox@a=\box65
+\stripsep=\skip96
+\viper@penalty=\count339
+\ht@viper=\dimen289
+) (./captionhack.sty) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supported.
+
+))
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 59.
+LaTeX Font Info:    No file TUptm.fd. on input line 59.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 59.
+
+
+LaTeX Warning: Unused global option(s):
+    [10.5pt,journal].
+
+No file CjC_template_tex.aux.
+\openout1 = `CjC_template_tex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 59.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 59.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 59.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 59.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 59.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 59.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 59.
+LaTeX Font Info:    Redeclaring math accent \check on input line 59.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 59.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 59.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:77: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \zihao{5-}\begin{CJK*}
+                           {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:78: LaTeX Error: \begin{tabular} on input line 76 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ... Ñ§\quad ±¨\hfill Vol. ??  No. ?\end{CJK*}
+                                                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:79: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 \zihao{5-}\begin{CJK*}
+                           {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:80: LaTeX Error: \begin{tabular} on input line 76 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...AL OF COMPUTERS \hfill ???. 20??\end{CJK*}
+                                                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (0.61888pt too wide) in paragraph at lines 76--83
+[][] 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:86: LaTeX Error: Environment CJK undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{CJK}
+                {GBK}{hei}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:88: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \end{CJK}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (133.51527pt too wide) in paragraph at lines 86--89
+ \TU/ptm/m/n/22.08249 ÌâÄ¿£¨ÖÐÓ¢ÎÄÌâÄ¿Ò»ÖÂ)×ÖÌåÎª2ºÅºÚÌå(È«ÎÄ³ýÌØ±ðÉùÃ÷Íâ£¬ 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:91: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 {\zihao{3}\begin{CJK*}
+                           {GBK}{fs}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:92: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ...$^{3) }$($^*$×ÖÌåÎª3ºÅ·ÂËÎ*×÷Õß)\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:95: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \zihao{6}{\begin{CJK*}
+                           {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:98: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \end{CJK*}
+               }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:100: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \zihao{6}{\begin{CJK*}
+                            {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:103: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \end{CJK*}
+                }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:105: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \zihao{6}{\begin{CJK*}
+                            {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:107: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 \end{CJK*}
+                }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:109: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \zihao{6}{\begin{CJK*}
+                            {GBK}{hei}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:111: LaTeX Error: \begin{table*} on input line 74 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{CJK*}
+                }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (166.84633pt too wide) in paragraph at lines 109--112
+ \TU/ptm/m/n/7.52812 ÂÛÎÄ¶¨¸åºó£¬×÷ÕßÊðÃû¡¢µ¥Î»ÎÞÌØÊâÇé¿ö²»ÄÜ±ä¸ü¡£Èô±ä¸ü£¬ÐëÌá½»Ç©ÕÂÉêÇë£¬¹ú¼ÒÃûÎªÖÐ¹ú¿ÉÒÔ²»Ð´£¬Ê¡»á³ÇÊÐ²»Ð´Ê¡µÄÃû³Æ£¬ÆäËû¹ú¼Ò±ØÐëÐ´¹ú¼ÒÃû¡£ 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:118: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \noindent\begin{CJK*}
+                           {GBK}{hei}Õª\quad Òª\quad \end{CJK*} \begin{CJK*}...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:118: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...CJK*}{GBK}{hei}Õª\quad Òª\quad \end{CJK*}
+                                                   \begin{CJK*}{GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:118: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...i}Õª\quad Òª\quad \end{CJK*} \begin{CJK*}
+                                                  {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (81.37419pt too wide) in paragraph at lines 118--121
+\TU/ptm/m/n/9.03374 GBKheiÕª Òª  GBKsong *ÖÐÎÄÕªÒªÄÚÈÝÖÃÓÚ´Ë´¦(Ó¢ÎÄÕªÒªÖÐÒªÓÐÕâÐ©ÄÚÈÝ)£¬×ÖÌåÎªÐ¡5ºÅËÎÌå¡£ÕªÒª¹±Ï×²¿ |\TU/SongtiSCLight(0)/m/n/9.03374 ·|
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:122: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \end{CJK*}
+                \par}}\\[2mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:125: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \begin{CJK*}
+                  {GBK}{hei}¹Ø¼ü´Ê\end{CJK*} \quad \begin{CJK*}{GBK}{song}{*...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:125: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \begin{CJK*}{GBK}{hei}¹Ø¼ü´Ê\end{CJK*}
+                                             \quad \begin{CJK*}{GBK}{song}{*...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:125: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 ...}{hei}¹Ø¼ü´Ê\end{CJK*} \quad \begin{CJK*}
+                                                  {GBK}{song}{*¹Ø¼ü´Ê£¨ÖÐÎÄ¹...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:126: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \end{CJK*}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+\TU/ptm/m/n/9.03374 GBKhei¹Ø¼ü´Ê  GBKsong*¹Ø¼ü´Ê£¨ÖÐÎÄ¹Ø¼ü×ÖÓëÓ¢ÎÄ¹Ø¼ü×Ö¶ÔÓ¦ÇÒÒ»ÖÂ£¬Ó¦ÓÐ5-
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:128: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \zihao{5-}{\begin{CJK*}
+                             {GBK}{hei}ÖÐÍ¼·¨·ÖÀàºÅ\end{CJK*}^^I\begin{CJK*}...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:128: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 ...gin{CJK*}{GBK}{hei}ÖÐÍ¼·¨·ÖÀàºÅ\end{CJK*}
+                                                  ^^I\begin{CJK*}{GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:128: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 ...hei}ÖÐÍ¼·¨·ÖÀàºÅ\end{CJK*}^^I\begin{CJK*}
+                                                  {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:129: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 TP\end{CJK*}
+                  \rm{\quad \quad \quad     }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:130: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \begin{CJK*}
+                  {GBK}{hei}DOIºÅ:\end{CJK*}\begin{CJK*}{GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:130: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \begin{CJK*}{GBK}{hei}DOIºÅ:\end{CJK*}
+                                            \begin{CJK*}{GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:130: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 ...K*}{GBK}{hei}DOIºÅ:\end{CJK*}\begin{CJK*}
+                                                  {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:131: LaTeX Error: \begin{tabular} on input line 115 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 *Í¶¸åÊ±²»Ìá¹©DOIºÅ\end{CJK*}
+                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:137: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 \zihao{3}{ {\begin{CJK*}
+                              {GBK}{hei}Title *£¨ÖÐÓ¢ÎÄÌâÄ¿Ò»ÖÂ)×ÖÌåÎª4ºÅTim...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:137: LaTeX Error: \begin{center} on input line 136 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 ...ª4ºÅTimes New Roman,¼Ó´Ö* Title\end{CJK*}
+                                                  }}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:139: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 \zihao{5}{ {\begin{CJK*}
+                              {GBK}{hei}NAME Name-Name$^{1)}$ NAME Name$^{2)...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:140: LaTeX Error: \begin{center} on input line 136 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 new Roman*Name\end{CJK*}
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:143: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \zihao{6}{\begin{CJK*}
+                            {GBK}{hei}{$^{1)}$(Department of ****, Universit...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:144: LaTeX Error: \begin{center} on input line 136 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 new Roman* Depart.Correspond}\end{CJK*}
+                                             }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:146: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \zihao{6}{\begin{CJK*}
+                            {GBK}{hei}{$^{2)}$(Department of ****, Universit...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:146: LaTeX Error: \begin{center} on input line 136 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ... City ZipCode)*ÖÐ¹ú²»Ð´¹ú¼ÒÃû*}\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:148: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 \zihao{6}{\begin{CJK*}
+                            {GBK}{hei}{$^{3)}$(Department of ****, Universit...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:148: LaTeX Error: \begin{center} on input line 136 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...ipCode, country)*Íâ¹úÐ´¹ú¼ÒÃû*}\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 157.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:157: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 {\bf Abstract}\quad \begin{CJK*}
+                                      {GBK}{hei}(\textbf{500Ó¢ÎÄµ¥´Ê£¬ÄÚÈÝ°ü...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:158: LaTeX Error: \begin{tabular} on input line 154 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 ...mes new Roman,×ÖºÅ5ºÅ* Abstract\end{CJK*}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+[]\TU/ptm/b/n/10.53937 Abstract GBKhei(500Ó¢ÎÄµ¥´Ê£¬ÄÚÈÝ°üº¬ÖÐÎÄÕªÒªµÄÄÚÈÝ). ×ÖÌåÎªTimes new
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:165: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 {\bf Keywords}\quad \begin{CJK*}
+                                      {GBK}{hei}ÖÐÎÄ¹Ø¼ü×ÖÓëÓ¢ÎÄ¹Ø¼ü×Ö¶ÔÓ¦ÇÒ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:166: LaTeX Error: \begin{tabular} on input line 154 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ...ª5ºÅTimes new Roman * Key words\end{CJK*}
+                                                  }\par}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 165--166
+[]\TU/ptm/b/n/10.53937 Keywords GBKheiÖÐÎÄ¹Ø¼ü×ÖÓëÓ¢ÎÄ¹Ø¼ü×Ö¶ÔÓ¦ÇÒÒ»ÖÂ£¬²»ÒªÓÃÓ¢ÎÄËõÐ´); key
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:172: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 &\begin{CJK*}
+                   {GBK}{gbsn}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:175: LaTeX Error: \begin{tabular} on input line 170 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 \end{CJK*}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+[]\TU/ptm/m/n/7.52812 GBKgbsn ÊÕ¸åÈÕÆÚ£º  - - £»×îÖÕÐÞ¸Ä¸åÊÕµ½ÈÕÆÚ£º  - - .*Í¶¸åÊ±²»ÌîÐ´´ËÏî*. ±¾¿ÎÌâµÃµ½¡-
+ []
+
+
+Overfull \hbox (266.92374pt too wide) in paragraph at lines 172--176
+\TU/ptm/m/n/7.52812 ¡-»ù½ðÖÐÎÄÍêÕûÃû³Æ(No.ÏîÄ¿ºÅ)¡¢¡- ¡-»ù½ðÖÐÎÄÍêÕûÃû³Æ(No.ÏîÄ¿ºÅ)¡¢¡- ¡- »ù½ðÖÐÎÄÍêÕûÃû³Æ(No.ÏîÄ¿ºÅ)×ÊÖú.×÷ÕßÃû1(Í¨ÐÅ×÷Õß)£¬ÐÔ±ð£¬xxxxÄêÉú£¬Ñ§Î»(»òÄ¿Ç°Ñ§Àú)£¬Ö°³Æ£¬ÊÇ/ |\TU/SongtiSCLight(0)/m/n/7.52812 ·|
+ []
+
+
+Overfull \hbox (218.72119pt too wide) in paragraph at lines 172--176
+\TU/ptm/m/n/7.52812 ñ¼ÆËã»úÑ§»á(CCF)»áÔ±£¨Ìá¹©»áÔ±ºÅ),Ö÷ÒªÑÐ¾¿ÁìÓòÎª*****¡¢****.E-mail: **************.×÷ÕßÃû2£¨Í¨ÐÅ×÷Õß)£¬ÐÔ±ð£¬xxxxÄêÉú£¬Ñ§Î»(»òÄ¿Ç°Ñ§Àú)£¬Ö°³Æ£¬ÊÇ/ |\TU/SongtiSCLight(0)/m/n/7.52812 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+\TU/ptm/m/n/7.52812 ñ¼ÆËã»úÑ§»á(CCF)»áÔ±£¨Ìá¹©»áÔ±ºÅ),Ö÷ÒªÑÐ¾¿ÁìÓòÎª*****¡¢****.E-mail: **************.
+ []
+
+
+Overfull \hbox (141.7781pt too wide) in paragraph at lines 172--176
+\TU/ptm/m/n/7.52812 ×÷ÕßÃû3£¨Í¨ÐÅ×÷Õß)£¬ÐÔ±ð£¬xxxxÄêÉú£¬Ñ§Î»(»òÄ¿Ç°Ñ§Àú)£¬Ö°³Æ£¬ÊÇ/ |\TU/SongtiSCLight(0)/m/n/7.52812 ·| \TU/ptm/m/n/7.52812 ñ¼ÆËã»úÑ§»á(CCF)»áÔ±£¨Ìá¹©»áÔ±ºÅ),Ö÷ÒªÑÐ¾¿ÁìÓòÎª*****¡¢****.E-
+ []
+
+
+Overfull \hbox (35.27pt too wide) in paragraph at lines 172--176
+\TU/ptm/m/n/7.52812 mail: **************.(¸ø³öµÄµç×ÓÓÊ¼þµØÖ |\TU/SongtiSCLight(0)/m/n/7.52812 ·| \TU/ptm/m/n/7.52812 Ó¦²»»áÒò³ö¹ú¡¢±ÏÒµ¡¢¸ü»»¹¤×÷µ¥Î»µÈÔ-Òò¶ø±ä¶¯¡£Çë¸ø³öËùÓÐ×÷ÕßµÄµç×ÓÓÊ¼þ)
+ []
+
+
+LaTeX Warning: Float too large for page by 174.76657pt on input line 176.
+
+[1]
+Extra height:0.0pt when 0.0pt
+(2)Left:0.0pt Right:0.0pt Output:0.0pt
+- LAST -
+Left:0.0pt
+Right:0.0pt
+Output:0.0pt
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:182: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 \begin{CJK*}
+                  {GBK}{hei}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:187: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 \end{CJK*}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:189: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 \begin{CJK*}
+                  {GBK}{song}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (260.28027pt too wide) in paragraph at lines 189--191
+[]\TU/ptm/b/n/10.53937 GBKsong (1) ÑÐ¾¿ÐÔÂÛÎÄÖ÷ÌåÓ¦°üÀ¨ÒýÑÔ(ÖØµãÂÛÊöÑÐ¾¿µÄ¿ÆÑ§ÎÊÌâ¡¢ÒâÒå¡¢½â¾öË¼Â |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+\TU/ptm/b/n/10.53937 ¡¢¼ÛÖµ¡¢¹±Ï×µÈ)¡¢Ïà¹Ø¹¤×÷(ÎªÓëÒýÑÔ²¿ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (922.81647pt too wide) in paragraph at lines 189--191
+\TU/ptm/b/n/10.53937 Ö¶ÀÁ¢µÄÒ»¸öÕÂ½Ú)¡¢Ö÷Òª³É¹ûÂÛÊö¡¢¹Ø¼üÊµÏÖ¼¼Êõ¡¢ÑéÖ¤(¶Ô±ÈÊµÑé»òÀíÂÛÖ¤Ã÷)¡¢½áÂÛ(½áÊøÓï)µÈÄÚÈÝ£»ÏµÍ³ÊµÏÖ»òÊµÑéÓ¦ÓÐ¹Ø¼üµãµÄÏêÏ¸ÂÛÊö£¬ÒÔ±ã¶ÁÕßÄÜ¹»ÖØ¸´ÊµÏÖÂÛÎÄËùÊö³É¹û¡£ÊµÑéÓ¦ÓÐ¾ßÌåµÄÊµÑé» |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (28.84628pt too wide) in paragraph at lines 192--193
+[]\TU/ptm/b/n/10.53937 (2) ×ÛÊöÓ¦°üÀ¨ÒýÑÔ¡¢ÎÊÌâÓëÌôÕ½¡¢ÑÐ¾¿ÏÖ×´ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+\TU/ptm/b/n/10.53937 ÖÎö¡¢Î´À´ÑÐ¾¿ |\TU/SongtiSCLight(0)/m/n/10.53937 ·| \TU/ptm/b/n/10.53937 ½Ïò¡¢½áÂÛµÈÄÚÈÝ¡£ÒÔ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (68.08171pt too wide) in paragraph at lines 192--193
+\TU/ptm/b/n/10.53937 ÖÎö¡¢¶Ô±ÈÎªÖ÷£¬±ÜÃâ¶ÑÆöÎÄÏ×»òÒ»°ãÐÔ½éÉÜ¡¢ÐðÊö¡£ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+[]\TU/ptm/b/n/10.53937 (3) ¶¨ÀíÖ¤Ã÷¡¢¹«Ê½ÍÆµ¼¡¢´óÆª |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+\TU/ptm/b/n/10.53937 ùµÄÊýÑ§ÂÛÊö¡¢Ô-Ê¼Êý¾Ý£¬ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]\TU/ptm/b/n/10.53937 (1) ±¾Ä£°åÖÐÒªÇóµÄ¸÷ÏîÄÚÈÝÕýÈ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+[]\TU/ptm/b/n/10.53937 (2) Óï¾äÍ¨Ë³£¬ÎÞÖÐÎÄ¡¢Ó¢ÎÄÓï |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\TU/ptm/b/n/10.53937 ¨´íÎó£¬Ò×ÓÚÔÄ¶ÁÀí½â£¬ |\TU/SongtiSCLight(0)/m/n/10.53937 ·| \TU/ptm/b/n/10.53937 ûºÅÊ¹ÓÃÕýÈ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 202--203
+[]\TU/ptm/b/n/10.53937 (3) ÔÚÑ§Êõ¡¢¼¼ÊõÉÏ£¬ÂÛÎÄÄÚÈÝÕýÈ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:204: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 {\begin{CJK*}
+                   {GBK}{hei}\subsection{¶þ¼¶±êÌâ *×ÖÌåÎª5ºÅºÚÌå*±êÌâ2}\end{...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:204: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...{¶þ¼¶±êÌâ *×ÖÌåÎª5ºÅºÚÌå*±êÌâ2}\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]\TU/ptm/b/n/10.53937 ÕýÎÄÎÄ×ÖÒªÇóÓï¾äÍ¨Ë³£¬ÎÞÓï |\TU/SongtiSCLight(0)/b/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (338.47972pt too wide) in paragraph at lines 208--209
+\TU/ptm/b/n/10.53937 ¨´íÎó£¬½á¹¹ºÏÀí£¬ÌõÀíÇå³þ£¬²»Ó°ÏìÉó¸åÈË¡¢¶ÁÕßÔÄ¶ÁÀí½âÈ«ÎÄÄÚÈÝ¡£ÒÔÏÂ¼¸ÀàÎÊÌâÇë×÷ÕßÃÇÌØ±ð×¢Òâ£º 
+ []
+
+
+Overfull \hbox (44.9241pt too wide) in paragraph at lines 214--215
+[]\TU/ptm/b/n/10.53937 3) ¹«Ê½ÖÐÎÞ |\TU/SongtiSCLight(0)/m/n/10.53937 ·| \TU/ptm/b/n/10.53937 ûºÅ¡¢±í´ïÊ½µÄÊèÂ©£¬Ã»ÓÐÍ¬Ò»¸ö |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+[]\TU/ptm/b/n/10.53937 4) ÊýÑ§ÖÐÊ¹ÓÃµÄ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (294.76239pt too wide) in paragraph at lines 224--225
+\TU/ptm/b/n/10.53937 (Í¼±í±ØÐëÔÚÕýÎÄÖÐÓÐËù±íÊöºó³öÏÖ£¬¼´…ÈçÍ¼1ËùÊ¾)(×¢Òâ×Ý¡¢ºá×ø±êÓ¦ÓÐ×ø±êÃû³ÆºÍ¿Ì¶ÈÖµ)¡£ 
+ []
+
+
+Overfull \hbox (404.53255pt too wide) in paragraph at lines 226--227
+[]\TU/ptm/b/n/10.53937 9) ÁÐ³öµÄ²Î¿¼ÎÄÏ×±ØÐëÔÚÎÄÖÐ°´Ë³ÐòÒýÓÃ£¬¼´²Î¿¼ÎÄÏ×Ë³ÐòÓëÒýÓÃË³ÐòÒ»ÖÂ£¬¸÷ÏîÐÅÏ¢ÆëÈ«(¸ñÊ½¼û²Î¿¼ÎÄÏ×²¿ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (37.17238pt too wide) in paragraph at lines 228--229
+[]\TU/ptm/b/n/10.53937 10) Ê×´Î³öÏÖµÄËõÐ´ÐèÐ´Ã÷È«³Æ£¬Ê×´Î³öÏÖµÄ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Overfull \hbox (41.13518pt too wide) in paragraph at lines 230--231
+[]\TU/ptm/b/n/10.53937 11) Í¼µÄÍ¼ÀýËµÃ÷¡¢×ø±êËµÃ÷È«²¿ÓÃÖÐÎÄ»òÁ¿ |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (50.09769pt too wide) in paragraph at lines 248--250
+[]\TU/ptm/b/n/10.53937 15) ×éºÏµ¥Î»²ÉÓÃ±ê×¼¸ñÊ½£¬Èç£º“pJ/bit/m$[]$”Ó¦Îª
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:251: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 {\begin{CJK*}
+                   {GBK}{hei}\textbf{¶¨Àí1}.\end{CJK*}}\quad ******. *¶¨ÀíÄÚ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:251: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...{CJK*}{GBK}{hei}\textbf{¶¨Àí1}.\end{CJK*}
+                                                  }\quad ******. *¶¨ÀíÄÚÈÝ.*
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (216.07813pt too wide) in paragraph at lines 253--254
+[]\TU/ptm/b/n/10.53937 [“¶¨Òå”¡¢“¼ÙÉè”¡¢“¹«Àí”¡¢“ÒýÀí”µÈµÄÅÅ°æ¸ñÊ½Óë´ËÏàÍ¬£¬ÏêÏ¸¶¨ÀíÖ¤Ã÷¡¢¹«Ê½¿É |\TU/SongtiSCLight(0)/m/n/10.53937 ·|
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:255: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 {\begin{CJK*}
+                   {GBK}{fs}Ö¤Ã÷\end{CJK*}}.\quad  *Ö¤Ã÷¹ý³Ì.* [``Àý x''µÈµÄ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:255: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 {\begin{CJK*}{GBK}{fs}Ö¤Ã÷\end{CJK*}
+                                          }.\quad  *Ö¤Ã÷¹ý³Ì.* [``Àý x''µÈµÄ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+[]\TU/ptm/b/n/10.53937 GBKfsÖ¤Ã÷. *Ö¤Ã÷¹ý³Ì.* [“Àý
+ []
+
+File: CJC1.pdf Graphic file (type pdf)
+<use CJC1.pdf>
+
+Overfull \hbox (210.15219pt too wide) in paragraph at lines 261--263
+[]\TU/ptm/b/n/10.53937 Í¼X Í¼Æ¬ËµÃ÷ *×ÖÌåÎªÐ¡5ºÅ£¬Í¼Æ¬Ó¦ÎªºÚ°×Í¼£¬Í¼ÖÐµÄ×ÓÍ¼ÒªÓÐ×ÓÍ¼ËµÃ÷*
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:266: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 \centering {\begin{CJK*}
+                              {GBK}{hei}±íX\quad ±íËµÃ÷ *±íËµÃ÷²ÉÓÃºÚÌå*\end...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:266: LaTeX Error: \begin{table} on input line 265 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 ...íX\quad ±íËµÃ÷ *±íËµÃ÷²ÉÓÃºÚÌå*\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (18.93854pt too wide) in paragraph at lines 269--284
+ [] 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:287: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \begin{CJK*}
+                  {GBK}{hei}¹ý³ÌX.\end{CJK*}\quad ¹ý³ÌÃû³Æ
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:287: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \begin{CJK*}{GBK}{hei}¹ý³ÌX.\end{CJK*}
+                                            \quad ¹ý³ÌÃû³Æ
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+[]\TU/ptm/m/n/9.03374 *¡¶¼ÆËã»úÑ§±¨¡ |\TU/SongtiSCLight(0)/m/n/9.03374 ·| \TU/ptm/m/n/9.03374 µÄ |\TU/SongtiSCLight(0)/m/n/9.03374 ·| \TU/ptm/m/n/9.03374 ½ |\TU/SongtiSCLight(0)/m/n/9.03374 ·|
+ []
+
+
+Overfull \hbox (223.47829pt too wide) in paragraph at lines 289--290
+\TU/ptm/m/n/9.03374 ¨¹ý³ÌÃèÊö×ÖÌåÎªÐ¡5ºÅËÎÌå£¬IF¡¢THENµÈÎ±´úÂë¹Ø¼ü´ÊÈ«²¿ÓÃ´óÐ´×ÖÄ¸£¬±äÁ¿ºÍº¯ÊýÃû³ÆÓÃÐ±Ìå* 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:292: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.292 \begin{CJK*}
+                  {GBK}{hei}Ëã·¨\textbf{Y}\end{CJK*}.\quad Ëã·¨Ãû³Æ.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:292: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.292 ...n{CJK*}{GBK}{hei}Ëã·¨\textbf{Y}\end{CJK*}
+                                                  .\quad Ëã·¨Ãû³Æ.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (95.07277pt too wide) in paragraph at lines 299--300
+\TU/ptm/m/n/9.03374 IF¡¢THENµÈÎ±´úÂë¹Ø¼ü´ÊÈ«²¿ÓÃ´óÐ´×ÖÄ¸£¬±äÁ¿ºÍº¯ÊýÃû³ÆÓÃÐ±Ìå* 
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:303: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 \noindent \begin{CJK*}
+                            {GBK}{hei}ÖÂ\quad Ð»\end{CJK*}\quad \begin{CJK*}...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:303: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 ...begin{CJK*}{GBK}{hei}ÖÂ\quad Ð»\end{CJK*}
+                                                  \quad \begin{CJK*}{GBK}{ka...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:303: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 ...ei}ÖÂ\quad Ð»\end{CJK*}\quad \begin{CJK*}
+                                                  {GBK}{kai} *ÖÂÐ»ÄÚÈÝ.* ÖÂÐ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:303: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 ...JK*}{GBK}{kai} *ÖÂÐ»ÄÚÈÝ.* ÖÂÐ»\end{CJK*}
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+\TU/ptm/b/n/10.53937 GBKheiÖÂ Ð» GBKkai *ÖÂÐ»ÄÚÈÝ.*
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:309: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 \begin{CJK*}{GBK}{hei}²Î~¿¼~ÎÄ~Ï×\end{CJK*}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:309: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 \begin{CJK*}{GBK}{hei}²Î~¿¼~ÎÄ~Ï×\end{CJK*}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \begin{thebibliography}{99}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: LaTeX Error: \begin{thebibliography} on input line 311 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \begin{thebibliography}{99}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \begin{thebibliography}{99}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: LaTeX Error: \begin{thebibliography} on input line 311 ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \begin{thebibliography}{99}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \vbox (7.12204pt too high) has occurred while \output is active []
+
+ [2
+
+
+
+]
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Undefined control sequence.
+<argument> \equal 
+                  {5}{0}
+l.311 \begin{thebibliography}{99}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.311 \begin{thebibliography}{99}
+                                 
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\TE@neg }\def \@tempb {\@tempc }\ifx \@tempa \@tempb \toks@ \expandafter \ETC.
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.311 \begin{thebibliography}{99}
+                                 
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Undefined control sequence.
+<argument> \equal 
+                  {5}{0}
+l.311 \begin{thebibliography}{99}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.311 \begin{thebibliography}{99}
+                                 
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\TE@neg }\def \@tempb {\@tempc }\ifx \@tempa \@tempb \toks@ \expandafter \ETC.
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:311: Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.311 \begin{thebibliography}{99}
+                                 
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 319--319
+[][]\TU/ptm/b/n/9.03374 The Cooperative Association for Internet Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
+[]\TU/ptm/b/n/9.03374 ÍøÉÏµÄÎÄÏ×(¾ÙÀý£ºThe Cooperative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
+\TU/ptm/b/n/9.03374 Association for Internet Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
+\TU/ptm/b/n/9.03374 Analysis(CAIDA),http://www.caida.org/data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
+\TU/ptm/b/n/9.03374 2010,7,18) *Çë²ÉÓÃ½Å×¢ |\TU/SongtiSCLight(0)/b/n/9.03374 ·|
+ []
+
+
+Overfull \hbox (13.65149pt too wide) in paragraph at lines 316--320
+\TU/ptm/b/n/9.03374 ÅÓÚÕýÎÄ³öÏÖ´¦£¬Ã¿Ò³µÄ½Å×¢´Ó1¿ªÊ¼±àÐòºÅ*[] 
+ []
+
+
+Overfull \hbox (19.48582pt too wide) in paragraph at lines 321--322
+[]\TU/ptm/b/n/9.03374 ÖÐÎÄµÄ²Î¿¼ÎÄÏ×Ðè¸ø³öÖÐÓ¢ÎÄ¶ÔÕÕ¡£ÐÎÊ½Èç[3]¡£ 
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 323--327
+\TU/ptm/b/n/9.03374 (ÖÜÓÀ±ò,  |\TU/SongtiSCLight(0)/m/n/9.03374 ·| \TU/ptm/b/n/9.03374 ëµÇ¹ú. RFID°²È«Ð-ÒéµÄÉè¼ÆÓë |\TU/SongtiSCLight(0)/m/n/9.03374 ·|
+ []
+
+
+Overfull \hbox (84.0407pt too wide) in paragraph at lines 330--333
+\TU/ptm/b/n/9.03374 ÌâÄ¿(Ó¢ÎÄÌâÄ¿µÚÒ»×ÖÄ¸´óÐ´£¬ÆäËü¾ùÐ¡Ð´)£º¸±±êÌâ(Èç¹ûÓÐ).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--333
+\TU/ptm/b/n/9.03374 ¿¯Ãû(È«³Æ), Äê, ¾í(ÆÚ): Ò³Âë
+ []
+
+
+Overfull \hbox (186.37186pt too wide) in paragraph at lines 334--338
+[]\TU/ptm/b/n/9.03374 ×÷Õß. ÎÄÕÂÌâÄ¿(Ó¢ÎÄÌâÄ¿µÚ1×ÖÄ¸´óÐ´£¬ÆäËü¾ùÐ¡Ð´)£º¸±±êÌâ(Èç¹ûÓÐ)//Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--338
+\TU/ptm/b/n/9.03374 of the … (»áÒéÃû³Æ). »áÒéÕÙ¿ª³ÇÊÐ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--338
+\TU/ptm/b/n/9.03374 »áÒéÕÙ¿ª³ÇÊÐËùÔÚ¹ú¼Ò, Äê: Ò³Âë
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--342
+[]\TU/ptm/b/n/9.03374 ×÷Õß. ÎÄÕÂÌâÄ¿(Ó¢ÎÄÌâÄ¿µÚÒ»×ÖÄ¸´óÐ´,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--342
+\TU/ptm/b/n/9.03374 ÆäËü¾ùÐ¡Ð´): ¸±±êÌâ(Èç¹ûÓÐ)//±àÕß.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--342
+\TU/ptm/b/n/9.03374 ÎÄ¼¯±êÌâ. ³ö°æµØ: ³ö°æÉç, ³ö°æÄê: Ò³Âë
+ []
+
+
+Overfull \hbox (5.56163pt too wide) in paragraph at lines 346--348
+[]\TU/ptm/b/n/9.03374 ×÷Õß. ÎÄÕÂÌâÄ¿[²©Ê¿Ñ§Î»ÂÛÎÄ/Ë¶Ê¿Ñ§Î»ÂÛÎÄ].
+ []
+
+
+Overfull \hbox (56.86423pt too wide) in paragraph at lines 349--351
+[]\TU/ptm/b/n/9.03374 ×÷Õß. ÎÄÕÂÌâÄ¿(Ó¢ÎÄÌâÄ¿µÚÒ»×ÖÄ¸´óÐ´£¬ÆäËü¾ùÐ¡Ð´).
+ []
+
+
+Overfull \hbox (79.43051pt too wide) in paragraph at lines 352--354
+[]\TU/ptm/b/n/9.03374 ×¨ÀûÓµÓÐÈË. ×¨ÀûÃû³Æ£¬×¨ÀûÊÚÈ¨¹ú¼Ò£¬×¨ÀûÊÚÈ¨ÈÕÆÚ
+ []
+
+Extra height:0.0pt when 222.62376pt
+(2)Left:222.62376pt Right:182.18832pt Output:222.62376pt
+- LAST -
+Left:222.62376pt
+Right:182.18832pt
+Output:222.62376pt
+
+Overfull \hbox (269.01738pt too wide) in paragraph at lines 362--363
+[]\TU/ptm/b/n/9.03374 *¸½Â¼ÄÚÈÝÖÃÓÚ´Ë´¦£¬×ÖÌåÎªÐ¡5ºÅËÎÌå¡£¸½Â¼ÄÚÈÝ°üÀ¨£ºÏêÏ¸µÄ¶¨ÀíÖ¤Ã÷¡¢¹«Ê½ÍÆµ¼¡¢Ô-Ê¼Êý¾ÝµÈ* 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:0.0pt when 34.5714pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+(2)Left:34.5714pt Right:0.0pt Output:34.5714pt
+- LAST -
+Left:34.5714pt
+Right:0.0pt
+Output:34.5714pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: yourphotofilename.jpg Graphic file (type bmp)
+<yourphotofilename.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--371
+\TU/ptm/b/n/9.03374 First A.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--371
+\TU/ptm/b/n/9.03374 Author
+ []
+
+
+Overfull \hbox (609.40231pt too wide) in paragraph at lines 368--371
+\TU/ptm/b/n/9.03374 *¼ÆËã»úÑ§±¨µÚ1×÷ÕßÌá¹©ÕÕÆ¬µç×ÓÍ¼Æ¬£¬³ß´çÎª1´ç¡£Ó¢ÎÄ×÷Õß½éÉÜÄÚÈÝ°üÀ¨£º³öÉúÄê,Ñ§Î»(»òÄ¿Ç°Ñ§Àú),Ö°³Æ,Ö÷ÒªÑÐ¾¿ÁìÓò(ÓëÖÐÎÄ×÷Õß½éÉÜÖÐµÄÑÐ¾¿ |\TU/SongtiSCLight(0)/b/n/9.03374 ·|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--371
+\TU/ptm/b/n/9.03374 ½ÏòÒ»ÖÂ).* *×ÖÌåÎªÐ¡5ºÅTimes
+ []
+
+File: yourphotofilename.jpg Graphic file (type bmp)
+<yourphotofilename.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--378
+\TU/ptm/b/n/9.03374 Second B.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--378
+\TU/ptm/b/n/9.03374 Author
+ []
+
+
+Overfull \hbox (346.57477pt too wide) in paragraph at lines 375--378
+\TU/ptm/b/n/9.03374 *Ó¢ÎÄ×÷Õß½éÉÜÄÚÈÝ°üÀ¨£º³öÉúÄê,Ñ§Î»(»òÄ¿Ç°Ñ§Àú),Ö°³Æ,Ö÷ÒªÑÐ¾¿ÁìÓò(ÓëÖÐÎÄ×÷Õß½éÉÜÖÐµÄÑÐ¾¿ |\TU/SongtiSCLight(0)/b/n/9.03374 ·|
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 375--378
+\TU/ptm/b/n/9.03374 ½ÏòÒ»ÖÂ)¡£* *×ÖÌåÎªÐ¡5ºÅTimes
+ []
+
+
+Underfull \vbox (badness 5741) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:0.0pt when 87.9916pt
+
+Underfull \vbox (badness 5741) has occurred while \output is active []
+
+(2)Left:87.9916pt Right:50.81837pt Output:87.9916pt
+- LAST -
+Left:87.9916pt
+Right:50.81837pt
+Output:87.9916pt
+
+Underfull \vbox (badness 5741) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+[]\TU/ptm/b/n/9.03374 *ÂÛÎÄ±³¾°½éÉÜÎªÓ¢ÎÄ£¬×ÖÌåÎªÐ¡5ºÅTimes
+ []
+
+
+Overfull \hbox (86.8521pt too wide) in paragraph at lines 388--389
+[]\TU/ptm/b/n/9.03374 ÂÛÎÄºóÃæÎª400µ¥´Ê×óÓÒµÄÓ¢ÎÄ±³¾°½éÉÜ¡£½éÉÜµÄÄÚÈÝ°üÀ¨£º 
+ []
+
+
+Overfull \hbox (188.7978pt too wide) in paragraph at lines 390--391
+[]\TU/ptm/b/n/9.03374 ±¾ÎÄÑÐ¾¿µÄÎÊÌâÊôÓÚÄÄÒ»¸öÁìÓòµÄÊ²Ã´ÎÊÌâ¡£¸ÃÀàÎÊÌâÄ¿Ç°¹ú¼ÊÉÏ½â¾öµ½Ê²Ã´³Ì¶È¡£ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
+[]\TU/ptm/b/n/9.03374 ±¾ÎÄµÄ³É¹ûÊÇ½â¾ö´ó¿ÎÌâÖÐµÄÄÄÒ»²¿ |\TU/SongtiSCLight(0)/m/n/9.03374 ·|
+ []
+
+
+Overfull \hbox (199.47691pt too wide) in paragraph at lines 400--402
+\TU/ptm/b/n/9.03374 Ö£¬Èç¹ûÉæ¼°863$\OMS/cmsy/m/n/9.03374 n$\TU/ptm/b/n/9.03374 973ÒÔ¼°ÆäÏîÄ¿¡¢»ù½ð¡¢ÑÐ¾¿¼Æ»®£¬×¢ÒâÕâÐ©ÏîÄ¿µÄÓ¢ÎÄÃû³ÆÓ¦ÊéÐ´ÕýÈ |\TU/SongtiSCLight(0)/m/n/9.03374 ·|
+ []
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:403: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.403 \end{CJK*}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+- LAST -
+Extra skip:9.79295pt
+Left:93.62883pt/1.95128pt
+Right:82.20303pt/3.58412pt
+Output:93.88942pt
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:404: LaTeX Error: Environment CJK* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/delta/Downloads/大作业要求/计算机学报模板/计算机学报模板 Chinese Journal of Computer Template/CjC_template_tex.tex:404: LaTeX Error: \begin{document} ended by \end{CJK*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (2.33975pt too wide) has occurred while \output is active
+[] 
+ []
+
+[3] (./CjC_template_tex.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12083 strings out of 476919
+ 279284 string characters out of 5821839
+ 622062 words of memory out of 5000000
+ 31826 multiletter control sequences out of 15000+600000
+ 415776 words of font info for 100 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 115i,11n,118p,1421b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on CjC_template_tex.pdf (3 pages).
